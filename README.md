@@ -1,2 +1,1 @@
-# Duo-Studio
-This website is not completed yet still workking.
+Note: Use this source code when you get some issues or doubts.
